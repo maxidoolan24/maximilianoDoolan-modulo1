@@ -1,0 +1,14 @@
+.registro{
+    background-image: url(./imagenes/img-footer.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 200px;
+    height: 800px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+
+}
